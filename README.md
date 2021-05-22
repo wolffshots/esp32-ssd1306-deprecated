@@ -38,7 +38,7 @@ for more information on structure and contents of esp-idf projects, please refer
 
 ## documentation
 
-automatically generated API documentation (doxygen) is available [here](https://wolffshots.github.io/esp32-gpio/index.html).
+automatically generated API documentation (doxygen) is available [here](https://wolffshots.github.io/esp32-ssd1306/index.html).
 
 ## license
 
