@@ -8,7 +8,7 @@ see issue [#2](https://github.com/wolffshots/esp32-warm-water/issues/2) on [esp3
 
 1. run ```git submodule add git@github.com:wolffshots/esp32-ssd1306.git components/esp32-ssd1306``` in your main project
 2. configure project if needed
-3. ```#include "ssd1306_wrapper.h"``` should give you access to this component.
+3. ```#include "ssd1306.h"``` should give you access to this component.
 
 if the above steps don't work then you may need to run ```git submodule init components/esp32-ssd1306``` 
 and then ```git submodule update --remote --recursive``` in your main project
