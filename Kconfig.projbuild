@@ -1,0 +1,8 @@
+# config vars for esp32-ssd1306
+menu "wolffshots/esp32-ssd1306 config"
+    config SSD1306_TAG
+        string "ssd1306 tag"
+        default "esp32-ssd1306"
+        help
+            tag for use with esp log library for ssd1306 library
+endmenu
