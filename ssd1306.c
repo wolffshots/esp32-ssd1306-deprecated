@@ -37,3 +37,10 @@
 void ssd1306_init(void)
 {
 }
+
+/**
+ * deinit placeholder
+ */
+void ssd1306_deinit(void)
+{
+}
